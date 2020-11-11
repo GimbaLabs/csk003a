@@ -4,6 +4,14 @@
   <head>
     <title>CSK003a</title>
     <link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script> 
+      $(document).ready(function(){
+        $("#flip").click(function(){
+          $("#panel").slideToggle("slow");
+        });
+      });
+    </script>
     <style>
       h1 {color: red;}
       p {font-family: 'Anton', sans-serif;}
@@ -14,5 +22,8 @@
   <body>
     <h1>Welcome to Cardano Starter Kit #003!</h1>
     <p>Let's start this party like it's 1995</p>
+    
+    <div id="flip">Click to slide the panel down or up</div>
+    <div id="panel">Hello world!</div>
   </body>
 </html>
