@@ -1,6 +1,6 @@
 # Cardano Starter Kit #003a
 
-- Introductory lesson from [Cardano Starter Kit #003](link)
+- Introductory lesson from [Cardano Starter Kit #003](https://github.com/GimbaLabs/csk-003)
 - This lesson is for you if you're brand new to web development and want to get started.
 - If you're brand new to GitHub, take a look at [CSK #001](https://workshopmaybe.com/learn/cardano-starter-kits/starter-kit-001/starter-kit-001a/)
 - Try not to peek at the solution, let's build this together!
