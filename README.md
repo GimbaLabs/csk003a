@@ -1,10 +1,11 @@
 # Cardano Starter Kit #003a
 
 - Introductory lesson from [Cardano Starter Kit #003](link)
-- [Accompanying video on YouTube]()
 - Try not to peek at the solution, let's build this together!
 
 ## What You'll Do
+
+[Follow along with this video]() to complete the following.
 
 - Create a simple, static web page
 - Host your page with [GitHub Pages](https://pages.github.com/) for public viewing
