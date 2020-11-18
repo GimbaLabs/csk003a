@@ -2,7 +2,7 @@
 
 - Introductory lesson from [Cardano Starter Kit #003](link)
 - This lesson is for you if you're brand new to web development and want to get started.
-- If you're brand new to GitHub, take a look at [CSK #001](https://github.com/workshop-maybe/sk01-leave-your-mark)
+- If you're brand new to GitHub, take a look at [CSK #001](https://workshopmaybe.com/learn/cardano-starter-kits/starter-kit-001/starter-kit-001a/)
 - Try not to peek at the solution, let's build this together!
 
 ## What You'll Do
