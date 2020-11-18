@@ -1,6 +1,7 @@
 # Cardano Starter Kit #003a
 
 - Introductory lesson from [Cardano Starter Kit #003](link)
+- This lesson is for you if you're brand new to web development and want to get started.
 - Try not to peek at the solution, let's build this together!
 
 ## What You'll Do
