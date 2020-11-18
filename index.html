@@ -5,7 +5,8 @@
 <html>
   <head>
     <title>CSK003a</title>
-    <link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat+Subrayada:wght@700&display=swap" rel="stylesheet">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script> 
       $(document).ready(function(){
@@ -15,8 +16,10 @@
       });
     </script>
     <style>
-      h1 {color: purple;}
-      p {font-family: 'Anton', sans-serif;}
+      h1, p {
+        font-family: 'Montserrat Subrayada', sans-serif;
+        color: purple;
+      }
       #panel, #flip {
         border: solid 2px;
         padding: 18px;
@@ -29,14 +32,21 @@
       }
     </style>
     
+    
   </head>
   
   <body>
     <h1>Welcome to Cardano Starter Kit #003!</h1>
-    <p>Where we party like it's 1999</p>
+    <p>Where we party like it's <span id="myYear"></span></p>
+    
     
     <div id="flip">If you didn't come to party...</div>
     <div id="panel">Don't bother knockin on my door</div>
+    
+    <script>
+      var year = 1981+18;
+      document.getElementById("myYear").innerHTML = year;
+    </script>
     
     </body>
 </html>
